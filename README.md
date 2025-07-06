@@ -48,7 +48,7 @@ Sistem ini cocok untuk edukasi, pameran proyek, maupun pengembangan sistem kontr
 | Power (VCC)    | 5V          |
 | Ground (GND)   | GND         |
 
-> Anda dapat melihat wiring diagram visual
+> Anda dapat melihat wiring diagram visual<br>
 ![skema lalu lintas buzzer](https://github.com/Luddinritonga/lalu-lintas-buzzer/blob/main/skema%20lalu%20lintas%20buzzer.png)
 
 ---
